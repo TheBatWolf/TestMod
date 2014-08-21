@@ -1,11 +1,10 @@
 package com.thebatwolf.testmodalpha.item;
 
-import com.thebatwolf.testmodalpha.reference.Reference;
-import net.minecraft.item.ItemStack;
+public class itemChargedNetherStar extends itemTMA
+{
 
-public class ItemChargedNetherStar extends ItemTMA {
-
-    public ItemChargedNetherStar() {
+    public itemChargedNetherStar()
+    {
         super();
         this.setUnlocalizedName("chargedNetherStar");
     }

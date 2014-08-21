@@ -1,0 +1,7 @@
+package com.thebatwolf.testmodalpha;
+import cpw.mods.common.Mod;
+
+@Mod(modid="TestModAlpah", name="Test Mod Alpha", version"1.7.10-0.1" )
+public class TestModAlpha {
+
+}

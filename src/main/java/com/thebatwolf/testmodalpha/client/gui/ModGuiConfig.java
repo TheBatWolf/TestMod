@@ -7,9 +7,6 @@ import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.config.ConfigElement;
 import net.minecraftforge.common.config.Configuration;
 
-/**
- * Created by Gwen on 8/10/2014.
- */
 public class ModGuiConfig extends GuiConfig {
 
     public ModGuiConfig(GuiScreen guiScreen){

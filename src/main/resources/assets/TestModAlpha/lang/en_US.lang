@@ -1,1 +1,5 @@
 item.testmodalpha:chargedNetherStar.name=Charged Nether Star
+item.testmodalpha:acaciaLeaf.name=Acacia Leaf
+item.testmodalpha:testItem.name=Test Item
+item.testmodalpha:chargedNetherStar.name=Charged Nether Star
+itemGroup.testmodalpha=Test Mod Alpha

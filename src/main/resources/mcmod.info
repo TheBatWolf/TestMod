@@ -1,0 +1,21 @@
+[
+{
+  "modid": "TestModAlpha",
+  "name": "Test Mod Alpha",
+  "description": "Easy Peezzy Lemon Squeezy",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "TheBatWolf","Bobbybim"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

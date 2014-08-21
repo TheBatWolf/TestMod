@@ -27,6 +27,7 @@ public class TestModAlpha {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         LogHelper.info("PreInit Complete");
+
         ModItems.init();
 
     }
